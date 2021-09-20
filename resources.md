@@ -7,7 +7,7 @@ permalink: /resources/
 
 
 ### [Coursera](http://fbuy.me/v/dannyzen024)
-A MOOC ( massive open online course) provider with plenty of options
+A MOOC (massive open online course) provider with plenty of options
 
 
 ### [Cybrary](https://www.cybrary.it/)
