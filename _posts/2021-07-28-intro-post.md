@@ -8,6 +8,7 @@ I would assimilate improving your skills in tech as to getting better at basketb
 
 Getting your foot in the door in the field of technology is very much the same. With minimal overhead, you can learn and practice your technical skills, all you need is a laptop and drive (see what I did there).  Someone who is willing to put in the time and the effort behind the keyboard is very much able to land a career in tech. And that's the thing about this field, it requires self-motivation a lot more than formal training.
 
+
 ![Opportunities]({{site.baseurl}}/images/opportunities.png)
 
 
