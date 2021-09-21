@@ -5,14 +5,16 @@ title: Skills Overview
 
 In order to aid your journey to build skills for a career in tech, here is an overview of what to expect. A more in depth write up to follow.
 
-A list of skills and qualities you need to succeed in this field
+A list of skills and qualities you need to succeed in this field  
 
-Intangibles
+
+
+#### Intangibles
 - Persistence
 - Flexibility
 - Tenacity
 
-Lifelong Journey
+#### Lifelong Journey
 - General Curiosity
 - Feedback Hungry
 - General Computer Fundamentals
