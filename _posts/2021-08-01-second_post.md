@@ -15,11 +15,11 @@ Just think of the last tutorial you watched or followed. Chances are, it was eit
 After “hello world” examples, people tend to optimize content for superusers.
 I can’t count how many times I have gone through a tutorial
 or online resource and thought “that could have been explained in the first 5 minutes”
-or on the opposite end thought “where is a list of prerequisites when you need one?”
+or on the opposite end thought “where is a list of prerequisites when you need one?”\
 
 
 ![How to Draw an Owl]({{site.baseurl}}/images/owl_drawing.png)
-
+\
 
 What I want to do is provide a no fluff approach in practical advice and explaining subject matter
 that will serve in building technical skills in Information Security.
