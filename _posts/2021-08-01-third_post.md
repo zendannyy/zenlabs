@@ -13,8 +13,8 @@ What I wanted was to get my foot in the door. I knew if I could prove my charact
 
 ### The Odds 
 
-![Odds Stacked]({{site.baseurl}}/images/new_odds_stacked.jpeg)
-\
+![Odds Stacked]({{site.baseurl}}/images/new_odds_stacked.jpeg)  
+
 
 You might start to see the picture in front of me. As a brief recap I had the following going for me
 
