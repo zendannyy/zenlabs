@@ -19,6 +19,7 @@ or on the opposite end thought “where is a list of prerequisites when you need
 
 
 ![How to Draw an Owl]({{site.baseurl}}/images/owl_drawing.png)  
+  
 
 
 What I want to do is provide a no fluff approach in practical advice and explaining subject matter
