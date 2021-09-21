@@ -21,7 +21,7 @@ Going back briefly to the basketball analogy, you can improve by practicing on y
 ![Community]({{site.baseurl}}/images/community.jpeg)  
 
 
-Here are some ideas if you currently don’t have a ![community](https://careerkarma.com/) or a circle that will help you in your path to the career you want.
+Here are some ideas if you currently don’t have a **[community](https://careerkarma.com/)** or a circle that will help you in your path to the career you want.
 
 - Join an existing online room that tailors to your goals(Discord, Slack, Reddit, list goes on)
 - Start a chat room for you and your friends to share opportunities and advice
