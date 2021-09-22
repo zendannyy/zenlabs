@@ -20,3 +20,5 @@ The same goes in the field of tech. You can definitely self-teach a lot and rins
 
 That is why I started this website, to help others that want to get into the field of tech, especially InfoSec and those that are early in their careers with some doubts. I want to do my part in lending a helping hand and be the person I would have liked to have had.
 
+
+{% twitter https://twitter.com/zendannyy/status/1437651225604886534 %}  
