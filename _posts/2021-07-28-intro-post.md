@@ -18,7 +18,5 @@ Much like someone looking to improve their skills in the basketball example; the
 
 The same goes in the field of tech. You can definitely self-teach a lot and rinse and repeat, but the strides are made when you speak with others in the field and the community. I can attest to this, there are more people already doing this for a living that want to help than not. It is great to know that there are folks who want to see you succeed.
 
-That is why I started this website, to help others that want to get into the field of tech, especially InfoSec and those that are early in their careers with some doubts. I want to do my part in lending a helping hand and be the person I would have liked to have had.
+That is why I started this website, to help others that want to get into the field of tech, especially InfoSec and those that are early in their careers with some doubts. I want to do my part in lending a helping hand and be the person I would have liked to have had.  
 
-
-<!-- {% twitter https://twitter.com/zendannyy/status/1437651225604886534 %}   -->
