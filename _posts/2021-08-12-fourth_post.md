@@ -20,7 +20,7 @@ A list of skills and qualities you need to succeed in this field
 - Feedback Hungry
 - General Computer Fundamentals  
 
-<br>
+
 
 Notice how they are not necessarily hard skills and more so character traits. This is because all the technical stuff (which will become necessary) can all **[be learned](https://www.coursera.org/browse/computer-science)**. What you need is the desire to get there, and the desire to pivot onto new technologies, since these are constantly changing. Learning how to build skills is much more important.  
 <br>
