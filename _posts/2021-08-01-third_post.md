@@ -5,11 +5,13 @@ title: My Start
 
 ### My Opportunity In Getting Into Tech
 I opened my Year Up offer letter and there was the logo for the company I was going to be interning at. That was it, my foot was officially in the door. Granted, my toe was in the door but you get the point. From there on out I was on an interview, an exhibition of whether I could or could not do this. I knew I had the work ethic, now it was about picking up everything I could to be able to get into tech.
+<br>
 
 However, I recognized the odds were stacked. To put things in perspective, I had done a couple of years of community college and no degree. Everything I knew I had learned either on my own or was learning on the job (internship). I knew I was competing with graduates from Ivy League schools and experience at a who’s who of other top companies. Not only this, but the majority of interns are looking to put in a good name and come back after another year at their top name school. I didn’t have that to go back to, this was it. I even had left my job in Electrical Utility(completely different) to focus on this opportunity.
+<br>
 
 What I wanted was to get my foot in the door. I knew if I could prove my character as a person as well as my ability to learn on the spot, I had a shot. So I went for it.
-
+<br>
 
 ### The Odds 
 

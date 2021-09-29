@@ -15,8 +15,10 @@ Getting your foot in the door in the field of technology is very much the same. 
 ### Game Changer
 
 Much like someone looking to improve their skills in the basketball example; they could dribble over and over, they can practice their shot over and over, until they see the strides being made. But this is where the difference maker comes into play, without a doubt once they play in pickup games with other players they will see their playing level go up that much more. The added skill sets and necessary adjustments to be made on their part, will enable this player to improve.
+<br>
 
 The same goes in the field of tech. You can definitely self-teach a lot and rinse and repeat, but the strides are made when you speak with others in the field and the community. I can attest to this, there are more people already doing this for a living that want to help than not. It is great to know that there are folks who want to see you succeed.
+<br>
 
 That is why I started this website, to help others that want to get into the field of tech, especially InfoSec and those that are early in their careers with some doubts. I want to do my part in lending a helping hand and be the person I would have liked to have had.  
 
