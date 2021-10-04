@@ -15,8 +15,8 @@ A list of skills and qualities you need to succeed in this field
 - Tenacity  
 
 
-#### Lifelong Journey
-- General Curiosity
+#### Lifelong Skills
+- Insatiable Curiosity
 - Feedback Hungry
 - General Computer Fundamentals  
 
