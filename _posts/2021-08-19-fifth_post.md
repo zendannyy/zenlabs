@@ -4,7 +4,7 @@ title: Community
 ---
 
 What we need to take our learning to another level, is a community we can grow in. 
-At [Year Up](https://www.yearup.org/students/what-we-offer) the concept of community is instilled from the get go. The faculty staff drives home the point that you can’t do it alone, and that building a bond is crucial to having success from the training program. At first I was hesitant about this and frankly a little reluctant. Why did I need to talk to everybody? Why couldn’t I just learn, rinse and repeat and get on with my life?  
+At [Year Up](https://www.yearup.org/students/what-we-offer) the concept of community is instilled from the get go. The faculty drives home the point that you can’t do it alone, and that building a bond is crucial to having success from the training program. At first I was hesitant about this and frankly a little reluctant. Why did I need to talk to everybody? Why couldn’t I just learn, rinse and repeat and get on with my life?  
 <br>
 
 I came in with the “lone wolf” mentality as that is how I pretty much learned everything up until that point. I’m an introvert times 10, therefore every subject I picked up growing up, every class in community college, I mostly resorted to self-study. This made the contrast of the traditional school system and what I was learning here very evident, it was glaringly obvious. But that’s a topic for another post.  
