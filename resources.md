@@ -14,6 +14,9 @@ A MOOC (massive open online course) provider with plenty of options
 A catalog of courses with an mphasis on Cybersecurity resources
 
 
+### [Learkn](https://learkn.com/)
+A marketplace for eduactional courses, all free. 
+
 ### [Command Line Kung Fu](http://blog.commandlinekungfu.com/)
 For fun one off problems and solutions from the command line, all 3 major OS
 
