@@ -16,4 +16,6 @@ What I wanted was to get my foot in the door. I knew if I could prove my charact
 
 ### Contact me
 
+[zendannyy](https://twitter.com/zendannyy)
+
 [email@domain.com](mailto:email@domain.com)
