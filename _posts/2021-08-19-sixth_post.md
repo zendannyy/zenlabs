@@ -3,7 +3,7 @@ layout: post
 title: Roadmap of Cybersecurity
 ---
 
-Many people have asked me where to get started for learning more about cybersecurity roles and the kind of work it involves. Although some may think of Cybersecurity as pen tesing or "hacking", it is much broader than that. Here is an overview of the makeup of Cybersecurity.
+Many people have asked me where to get started for learning more about cybersecurity roles and the kind of work it involves. Although some may think of Cybersecurity as pentesing or "hacking", it is much broader than that. Here is an overview of the makeup of Cybersecurity.
 
 Blue Team: IR, Detection and Response, Threat Hunting, Threat Intel, AppSec, Compliance
 Red Team: Internal Red Team, External Penetration Testing, Physical Penetration Testing.
