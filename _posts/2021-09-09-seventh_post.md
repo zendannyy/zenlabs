@@ -5,7 +5,7 @@ title: Intro to Linux
 
 Why would one learn Linux in the first place?
 
-## Introductory Post on Linux 
+### Introductory Post on Linux 
 
 Why would one learn Linux in the first place?
 Besides being more secure by design, it puts the user in the driver seat. As much customization or little as you would like. Also for cloud computing, Linux is heavily used. 
@@ -21,16 +21,16 @@ cd, ls, mkdir, man, pwd, last
 Most of these are for general maneuvering around the filesystem. You can think of each listed command as the following.
 
 
-**Where am I?**
+#### **Where am I?**
 pwd, ls, ls -lah
 
-**Where to?**
+#### **Where to?**
 cd, cd ..
 
-**Who is logged in?**
+#### **Who is logged in?**
 last
 
-** How do I use this? **
+#### ** How do I use this? **
 man cd, man last, etc.
 
 <br>
