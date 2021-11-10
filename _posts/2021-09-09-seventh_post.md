@@ -33,6 +33,8 @@ last
 ** How do I use this? **
 man cd, man last, etc.
 
+<br>
+
 The goal is to get you up and running in Linux and know where to look for help. As no one knows everything. However, the best people simply just know where to look. Oftentimes a google search for a command will take you to the actual man page for it, where you can do this yourself from your terminal or command prompt. 
 (man cd, man last, etc.)
 
