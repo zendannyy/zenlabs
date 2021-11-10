@@ -30,7 +30,7 @@ cd, cd ..
 #### **Who is logged in?**
 last
 
-#### ** How do I use this? **
+#### **How do I use this?**
 man cd, man last, etc.
 
 <br>
