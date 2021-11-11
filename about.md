@@ -19,3 +19,4 @@ What I wanted was to get my foot in the door. I knew if I could prove my charact
 [zendannyy](https://twitter.com/zendannyy)
 <!-- 
 [email@domain.com](mailto:email@domain.com) -->
+[Resume](https://github.com/zendannyy/res/blob/6ebb7df94e8b13a8676db797107f547057a918e5/Danny_Resume.pdf)
