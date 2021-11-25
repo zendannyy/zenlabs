@@ -26,11 +26,13 @@ Download the insaller and follow the prompts as shown below
 
 <!-- ![Installer Continue](/images/VirtualBox_Install.png) -->
 <img src="../images/VirtualBox_Install.png" alt="Installer Continue" width="650"/>
+<br>
 Once you get output at the terminal with the following command, you have a successful installation
 
 vagrant -h
 <br>
-![vagrant -h](/images/vagrant_h.png)
+<!-- ![vagrant -h](/images/vagrant_h.png) -->
+<img src="../images/vagrant_h.png" alt="vagrant -h" width="650"/>
 
 
 I like Vagrant for its catalog of box OSes. It's also fairly fast and much more performant than using a local VM on your host machine. 
