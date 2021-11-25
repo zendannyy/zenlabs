@@ -24,8 +24,8 @@ installation process. This is faster than setting up a virtual machine manually 
 Virtualbox is the virtualization software that we will use, it is free and platform agnostic.
 Download the insaller and follow the prompts as shown below
 
-![Installer Continue](/images/VirtualBox_Install.png)
-
+<!-- ![Installer Continue](/images/VirtualBox_Install.png) -->
+<img src="images/VirtualBox_Install.png" alt="Installer Continue" width="800"/>
 Once you get output at the terminal with the following command, you have a successful installation
 
 vagrant -h
