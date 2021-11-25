@@ -8,7 +8,8 @@ Why would one learn Linux in the first place?
 [Intro to Linux ](https://zendannyy.github.io/seventh_post/)
 
 ### Get setup with Linux 
-Setup instructions
+Setup instructions 
+*This was done on MacOS but the instructions are left a bit general since they don't differ much for OSes*
  
 Please install the following
  
@@ -21,10 +22,14 @@ installation process. This is faster than setting up a virtual machine manually 
  
  
 Virtualbox is the virtualization software that we will use, it is free and platform agnostic.
+Download the insaller and follow the prompts as shown below
 
-Once you get output with the following command, you have a successful installation
- 
+![Installer Continue](/images/VirtualBox_Install.png)
+
+Once you get output at the terminal with the following command, you have a successful installation
+
 vagrant -h
+<br>
 ![vagrant -h](/images/vagrant_h.png)
 
 
