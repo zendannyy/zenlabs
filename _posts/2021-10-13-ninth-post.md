@@ -37,6 +37,7 @@ When wanting to go as thorough as possible with a suspicious email, you can look
 
 Now that you know what to look for in a potential phishing attempt. Here is an email I got to an old mail address. 
 ![Example Phish Email](/images/Example_Email.png)
+<br>
 
 Based off of the screenshot, can you discern if this is a phishing attempt? 
 
