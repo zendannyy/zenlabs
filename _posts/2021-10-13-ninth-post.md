@@ -36,7 +36,7 @@ Things to Remember when determining if an email is Phishing
 When wanting to go as thorough as possible with a suspicious email, you can look at the email headers for the full picture. Specifically, look at the From field to verify the sender. This is a bit more technical but very doable for the modern internet user. I will go over this in a next post to do a deep dive on header analysis. 
 
 Now that you know what to look for in a potential phishing attempt. Here is an email I got to an old mail address. 
-![Example Phish Email](/images/Example_EMail.png)
+![Example Phish Email](/images/Example_Email.png)
 
 Based off of the screenshot, can you discern if this is a phishing attempt? 
 
