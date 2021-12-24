@@ -16,19 +16,19 @@ This is a continuation of this post on phishing
 
 ### Link Analysis 
 Most phishing attempts nowadays will come in the form of links. Ask yourself, when you hover over the link, does it match where it says it's going to? Do you spot any typos or unexpected domains?
-
+<br>
 
 
 ![Example Email II](/images/Example_Email_ll.png)
 
 Google it without accessing the domain. For example in the email above, hovering over the link shows coatpurple[.]com typing site:coatpurple.com will return results without risk of going to the actual site. 
-
+<br>
 
 ### Reading the Headers
 To do this in gmail select "Show Original" , for yahoo do "View raw message"
 The reason why you read these bottom to top is because this follows the "flow" the email took to get to your inbox. By following it, you can see if the email flow makes sense. 
 Specifically, look at the *From:* field to verify the sender, and the *Received:* field to follow the route. 
-
+<br>
 
 
 ![Example Email Headers](/images/Example_Headers.png)
