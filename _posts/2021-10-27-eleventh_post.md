@@ -5,6 +5,7 @@ title: Email Account Recovery
 
 ### What hapens when you go through the account reset flow? 
 
+
 A friend recently contacted me about an account they were trying to recover. The first thing they said was “Can you hack a gmail account?”😂  I wanted to write about this in case it helps others that have had this experience or know of someone who has. 
 The long story short was that their phone broke, and they were trying to set up a new phone. The credentials to the account were forgotten and they couldn’t finish setting it up. The questions I asked to help were 
 
