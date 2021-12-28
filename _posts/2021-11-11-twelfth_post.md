@@ -5,6 +5,7 @@ title: Update to Cybersecurity Roadmap
 
 Here are some updates that can shed light on what a role from one of these job families can look like. 
 <br>
+
 ![Roadmap V2](/images/RoadmapV2.png)
 
 

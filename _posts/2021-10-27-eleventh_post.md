@@ -14,6 +14,7 @@ The long story short was that their phone broke, and they were trying to set up 
 * What happens when you go through the account reset flow? 
 <br>
 
+
 This led to knowing that there wasn’t any recovery email or phone number, and resetting it would have to be done another way. I tested this flow myself by choosing “forgot password” and it sent me a mobile prompt to verify it was me. When they tried to go through the same “forgot password” flow it sent a recovery code, but it went to the broken phone, adding another fork to the road to recovery.
 
 From here, I verified there was the option of recovery without knowing the password or having a recovery email/phone number. There is the option of resetting by typing the last password you remember and verifying your identity through some security questions. 
