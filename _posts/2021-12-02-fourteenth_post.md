@@ -4,7 +4,8 @@ title: Pushing Internal Data To Repo: An Anecdote
 ---
 
 Wanted to tell a quick story of one of the close calls I had working in Security this year. 
-A lot of times people only talk about their highlights or their accomplishments. But it is a good exercise to learn from our mistakes.
+A lot of times people only talk about their highlights or their accomplishments. But it is a good 
+exercise to learn from our mistakes.
 
 I have a running list of notes I keep on my work laptop. Think things like definitions to different tools, short code snippets, and more that I can use regardless of the setting. One day I was working on github and I pushed this file. This normally wouldn’t be an issue if there is no internal data within it, after all it's just general notes.
 
@@ -26,4 +27,5 @@ Making it seem as if the mistake never happened. I was able to fix the incident 
 I like to go by the adage of “I either win or I learn”, and this was definitely a learning experience.
 I think we can all take some time and remember moments where we really learned through adverse 
 experiences and came out better because of it. 
+
 
