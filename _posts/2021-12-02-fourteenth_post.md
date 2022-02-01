@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cybsersecurity Resources for the Community
+title: Pushing Internal Data To Repo: An Anecdote
 ---
 
 Wanted to tell a quick story of one of the close calls I had working in Security this year. 
@@ -10,6 +10,9 @@ I have a running list of notes I keep on my work laptop. Think things like defin
 
 The problem was there was an internal webhook in the file. Webhooks are “always on" listeners that will deliver data when a specified action occurs. Think of a Typeform or Slack notification. A couple days later I was notified of this problem, and I double checked the github push. Sure enough there was the webhook. We start an incident and remediation starts. 
 
+
+![Github Push Meme](/images/github_push.jpeg)
+<br>
 
 Due to the way github works, simply removing this file is not good enough from a security and privacy standpoint, as the 
 secret will remain in git history. I ended up using the git-filter repo tool to address this.
