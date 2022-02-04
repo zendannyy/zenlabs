@@ -10,7 +10,7 @@ One might feel like Alice in Wonderland when just starting out on their journey 
 ![Alice in Wonderland](/images/alice_wonderland.jpeg)
 <br>
 
-The rabbithole we can find ourselves in
+*The rabbithole we can find ourselves in*
 
 A lot of people are constantly trying to keep up with the new thing, the “cutting edge”. This all can be a bit overwhelming as things in technology change constantly. After being in the field of Cybersecurity for 4 years I have learned that “the only thing that is constant is change”.  
 
