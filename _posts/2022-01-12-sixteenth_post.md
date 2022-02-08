@@ -21,4 +21,4 @@ I have taken from my experience working in Security and am putting together this
 I truly believe if resources are readily available to people that are just starting out, this can be the catalyst they need to keep going on their journey.
 
 Here is an overview of what I’m preparing
-https://zenlabz.notion.site/Intro-To-Linux-803cc10e39674e328938f074e060d357
+[Intro to Linux Outline](https://zenlabz.notion.site/Intro-To-Linux-803cc10e39674e328938f074e060d357)
