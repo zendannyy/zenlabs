@@ -7,6 +7,7 @@ title: Thinking in the Long Term
 One might feel like Alice in Wonderland when just starting out on their journey to learn about how to get in the field of tech. 
 
 <br>
+
 ![Alice in Wonderland](/images/alice_wonderland.jpeg)
 <br>
 
