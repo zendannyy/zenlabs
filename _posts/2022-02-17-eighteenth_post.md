@@ -12,7 +12,7 @@ Here, I wanted to write about the Blue Team and dive deeper into what this field
 This is the “defense” of Cybersecurity, those who defend and protect data and digital resources. 
 Job families within the Blue Team are: Incident Response, Detection and Response, Threat Intel, Threat Hunting, AppSec, Compliance. 
 <br>
-
+<br>
 
 ![Blue Team](/images/BlueTeam.png)
 <br>
