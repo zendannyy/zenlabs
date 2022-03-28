@@ -9,7 +9,7 @@ I mentioned previously that I was working on an introductory course and would ma
 I am glad to be able to say that the course is here.
 [“Intro to Linux”](https://www.udemy.com/course/intro-to-linux/)
 
-![Intro to Linux](/images/Intro_LinuxCoursell.png)
+![Intro to Linux](/images/Intro_Linux_Coursell.png)
 <br>
 
 I have made it so anyone not familiar with the Linux command line can get started and learn right away. It also comes with resources to be able to fully replicate the install shown. I have definitely taken courses or tutorials before where I’m left thinking to myself “where is a list of requirements to follow along?”. I strived for a reproducible environment that will allow you to follow along and avoid this issue. 
